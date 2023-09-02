@@ -1,3 +1,3 @@
 # mahmysqladmin
 ![Logo](http://git.dexpaz.ru/mahlogo.png)
-PHP MYSQL admin tool
+## PHP MYSQL admin tool
